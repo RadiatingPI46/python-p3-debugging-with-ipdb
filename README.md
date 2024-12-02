@@ -98,7 +98,7 @@ including `ipdb`.
 > run the following command in your local environment:
 >
 > ```console
-> > pip install ipdb
+> > pip install ipdb 
 > ```
 
 Look at the code in `lib/ipdb_is_awesome.py`. You should see the following code:
